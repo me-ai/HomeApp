@@ -21,8 +21,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Endpoints http://(http://localhost:8000/api/
-## Root
+## Endpoints http://http://localhost:8000/api/
+### Root
 *http://http://localhost:8000/api/*
 
 ### NewDevice
