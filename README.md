@@ -1,7 +1,7 @@
 # HomeApp
 Django API with basic CRUD funtionality
 
-##Getting Started
+## Getting Started
 
 ### Install packages
 configure you virtenv of choice and install reuirments.txt
@@ -21,7 +21,7 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Endpoints http://http://localhost:8000/api/
+## Endpoints
 ### Root
 *http://http://localhost:8000/api/*
 
