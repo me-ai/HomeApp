@@ -50,8 +50,8 @@ python manage.py runserver
 ```
 ### DeviceHistory
 /device-history/
-*example*
-*Note device_id id is device.id as foregin key will return all activity for device*
+- *Note device_id id is device.id as foregin key will return all activity for device*
+- *example*
 ```
 {
     "id": 4,
@@ -65,7 +65,7 @@ python manage.py runserver
 ```
 ### UpdateDeviceStatus
 update-device-status/<str:id>/
-*example /api/device-status/1/*
+- *example /api/device-status/1/*
 
 ```
 {
@@ -79,7 +79,7 @@ update-device-status/<str:id>/
 ### DeleteDevice
 /delete-device/<str:id>/
 *example*
-*/delete-device/1/*
+- */delete-device/1/*
 ```
 
 ```
